@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 /**
  * 
- * @author Allen
+ * @author Allen - Also messed with by Chris
  *
  */
 public class ImageSlicer {

@@ -8,8 +8,8 @@ import javax.swing.SwingUtilities;
 /**
  * Breaks images into several different 1024x1024 images (as well as any remainder).
  * 
- * @author Allen
- *
+ * @author Allen - Messed with by Chris
+ * 
  */
 public class IBMain implements Runnable{
 
