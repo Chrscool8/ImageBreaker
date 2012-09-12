@@ -1,5 +1,5 @@
 !656;s
-J
+A
 SAU0PATH+=%<JGRASP_PATHS>%;
 SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
 S+U0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
@@ -10,10 +10,3 @@ s#i0
 s#k0
 s#j0
 s#l0
-!106;u
-a0	b68	c255	f%\011ImageBreaker.jar	g%\011ImageBreaker.zip	hManifest-Version\0111.0\011Main-Class\011IBMain!39;g
-%\011ImageSlicer.java
-%\011IBMain.java
-!33;f
-%	ImageSlicer.java
-%	IBMain.java
